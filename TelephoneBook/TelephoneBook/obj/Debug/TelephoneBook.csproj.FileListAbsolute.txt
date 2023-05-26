@@ -1,0 +1,11 @@
+C:\Users\st305a05\Desktop\Рыжков ПР-24 Практика\TelephoneBook\TelephoneBook\obj\Debug\TelephoneBook.csproj.AssemblyReference.cache
+C:\Users\st305a05\Desktop\Рыжков ПР-24 Практика\TelephoneBook\TelephoneBook\obj\Debug\TelephoneBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\st305a05\Desktop\Рыжков ПР-24 Практика\TelephoneBook\TelephoneBook\obj\Debug\TelephoneBook.Properties.Resources.resources
+C:\Users\st305a05\Desktop\Рыжков ПР-24 Практика\TelephoneBook\TelephoneBook\obj\Debug\TelephoneBook.csproj.GenerateResource.cache
+C:\Users\st305a05\Desktop\Рыжков ПР-24 Практика\TelephoneBook\TelephoneBook\obj\Debug\TelephoneBook.csproj.CoreCompileInputs.cache
+C:\Users\st305a05\Desktop\Рыжков ПР-24 Практика\TelephoneBook\TelephoneBook\bin\Debug\TelephoneBook.exe.config
+C:\Users\st305a05\Desktop\Рыжков ПР-24 Практика\TelephoneBook\TelephoneBook\bin\Debug\TelephoneBook.exe
+C:\Users\st305a05\Desktop\Рыжков ПР-24 Практика\TelephoneBook\TelephoneBook\bin\Debug\TelephoneBook.pdb
+C:\Users\st305a05\Desktop\Рыжков ПР-24 Практика\TelephoneBook\TelephoneBook\obj\Debug\TelephoneBook.exe
+C:\Users\st305a05\Desktop\Рыжков ПР-24 Практика\TelephoneBook\TelephoneBook\obj\Debug\TelephoneBook.pdb
+C:\Users\st305a05\Desktop\Рыжков ПР-24 Практика\TelephoneBook\TelephoneBook\obj\Debug\TelephoneBook.PhoneBooks.resources
